@@ -11,3 +11,4 @@ This is the repository for my Weather Dashboard website. Features include:
 ![A screenshot of the finished first version of my "Weather Dashboard" wesbite.](./assets/pictures/Screenshot_27-5-2024_04145_127.0.0.1.png)
 ## Link to Github page
 
+https://nubsu.github.io/Weather-Dashboard/
