@@ -93,7 +93,7 @@ function renderSearchHistory(){
 }
 
 function getweather(a){
-    fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${a}&limit=1&appid=838bcd69640afa8ed848b7123072a025`)
+    fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${a}&limit=1&appid=838bcd69640afa8ed848b7123072a025`)
     .then(function(response){
         if (!response.ok) {
             throw new Error(response.status)
